@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%26+Engineer;AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things!&center=true&width=500&height=50"></a>
 </p>
-<h4 align="center">I am a Junior at TDP S.A graduated with a BSE. in Computer Science & Engineering. I like to Code, Design, Innovate and Experiment and recently discovered my passion for AI and ML 🚀. I am an enthusiast for innovation and always up for new challenges.</h4>
+<h4 align="center">I am a Junior at TDP S.A graduated with a BSE. in Computer Science & Engineering. I like to Code, Design, Innovate and Experiment, and recently discovered my passion for AI and ML 🚀. I am an enthusiast for innovation and always up for new challenges!</h4>
 <br>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=martinezlucas98&label=Profile%20views&color=0e75b6&style=plastic" alt="martinezlucas98" /> </p> -->
 
