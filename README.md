@@ -1,7 +1,7 @@
 
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-	Hi , I'm Lucas Martínez 
+	Hi , I'm Lucas O. Martínez 
 	<a href="https://www.linkedin.com/in/lucas-martinez-amarilla-924339208" target="_blank"> <img src="https://img.icons8.com/color/35/linkedin.png"/></a>
 	<a href="mailto:lucasoctaviom@gmail.com"> <img src="https://img.icons8.com/color/35/gmail.png"/></a>
 </h1>
