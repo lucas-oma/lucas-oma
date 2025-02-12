@@ -27,4 +27,4 @@
 	<a href="#"><img src="https://img.icons8.com/color/30/kubernetes.png" alt="Kubernetes"/></a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=martinezlucas98&theme=algolia" alt="martinezlucas98"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-oma&theme=algolia" alt="lucas-oma"  /></p>
